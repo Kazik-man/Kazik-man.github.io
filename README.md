@@ -6,7 +6,7 @@
 4.<a href="https://kazik-man.github.io/homework3/.">Home work #3</a> - Список покупок<br>
 5.<a href="https://kazik-man.github.io/homework3.5/.">Home work #3.5</a> - Якоря<br>
 6.<a href="https://kazik-man.github.io/homework4/.">Home work #4</a> - Вёрстка CSS. files 02_hard<br>
-7.<a href="https://kazik-man.github.io/homework5/.">Home work #5</a> - Вёрстка макета "About me" с размерами фотожопа<br>
+7.<a href="">Home work #5</a> - Вёрстка макета "About me" с размерами фотожопа<br>
 8.<a href="">Home work #</a> - <br>
 9.<a href="">Home work #</a> - <br>
 10.<a href="">Home work #</a> - <br>
