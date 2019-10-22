@@ -8,6 +8,6 @@
 6.<a href="https://kazik-man.github.io/homework4/.">Home work #4</a> - Вёрстка CSS. files 02_hard<br>
 7.<a href="https://kazik-man.github.io/homework4.5/.">Home work #4.5</a> - Вёрстка CSS. files 01_simple<br>
 8.<a href="https://kazik-man.github.io/homework5/.">Home work #5</a> - Вёрстка макета "About me" с размерами фотожопа<br>
-9.<a href="">Home work #</a> - <br>
+9.<a href="https://kazik-man.github.io/homework6/.">Home work #6</a> - :hover moments<br>
 10.<a href="">Home work #</a> - <br>
 11.<a href="">Home work #</a> - <br>
