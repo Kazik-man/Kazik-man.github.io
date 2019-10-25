@@ -10,4 +10,13 @@
 8.<a href="https://kazik-man.github.io/homework5/.">Home work #5</a> - Вёрстка макета "About me" с размерами фотожопа<br>
 9.<a href="https://kazik-man.github.io/homework6/.">Home work #6</a> - :hover moments<br>
 10.<a href="https://kazik-man.github.io/homework6.5/.">Home work #6.5</a> - Список покупок + CSS<br>
-11.<a href="">Home work #</a> - <br>
+11.<a href="https://kazik-man.github.io/homework7/.">Home work #7</a> - Форма email с позиционированием<br>
+12.<a href="">Home work #</a> - <br>
+13.<a href="">Home work #</a> - <br>
+14.<a href="">Home work #</a> - <br>
+15.<a href="">Home work #</a> - <br>
+16.<a href="">Home work #</a> - <br>
+17.<a href="">Home work #</a> - <br>
+18.<a href="">Home work #</a> - <br>
+19.<a href="">Home work #</a> - <br>
+20.<a href="">Home work #</a> - <br>
