@@ -12,7 +12,7 @@
 10.<a href="https://kazik-man.github.io/homework6.5/.">Home work #6.5</a> - Список покупок + CSS<br>
 11.<a href="https://kazik-man.github.io/homework7/.">Home work #7</a> - Форма email с позиционированием<br>
 12.<a href="https://kazik-man.github.io/homework8/.">Home work #8</a> - Вёрстка hoversов<br>
-13.<a href="">Home work #</a> - <br>
+13.<a href="https://kazik-man.github.io/homework8.5/.">Home work #8.5</a> - Weather Forecast<br>
 14.<a href="">Home work #</a> - <br>
 15.<a href="">Home work #</a> - <br>
 16.<a href="">Home work #</a> - <br>
