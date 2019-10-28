@@ -14,9 +14,15 @@
 12.<a href="https://kazik-man.github.io/homework8/.">Home work #8</a> - Вёрстка hoversов<br>
 13.<a href="https://kazik-man.github.io/homework8.5/.">Home work #8.5</a> - Weather Forecast<br>
 14.<a href="https://kazik-man.github.io/homework9/.">Home work #9</a> - Cup Of Coffee<br>
-15.<a href="">Home work #</a> - <br>
+15.<a href="https://kazik-man.github.io/homework9.5/.">Home work #9.5</a> - Мама,я верстальщик! "Bootstrap с машинками"<br>
 16.<a href="">Home work #</a> - <br>
 17.<a href="">Home work #</a> - <br>
 18.<a href="">Home work #</a> - <br>
 19.<a href="">Home work #</a> - <br>
-20.<a href="">Home work #</a> - <br>
+21.<a href="">Home work #</a> - <br>
+22.<a href="">Home work #</a> - <br>
+23.<a href="">Home work #</a> - <br>
+24.<a href="">Home work #</a> - <br>
+25.<a href="">Home work #</a> - <br>
+26.<a href="">Home work #</a> - <br>
+27.<a href="">Home work #</a> - <br>
