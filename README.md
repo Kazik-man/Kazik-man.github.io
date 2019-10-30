@@ -16,7 +16,7 @@
 14.<a href="https://kazik-man.github.io/homework9/.">Home work #9</a> - Cup Of Coffee<br>
 15.<a href="https://kazik-man.github.io/homework9.5/.">Home work #9.5</a> - Мама,я верстальщик! "Bootstrap с машинками"<br>
 16.<a href="https://kazik-man.github.io/homework10/.">Home work #10</a> - Text (google fonts)<br>
-17.<a href="">Home work #</a> - <br>
+17.<a href="https://kazik-man.github.io/homework10.5/.">Home work #10.5</a> - title_text_icomoon<br>
 18.<a href="">Home work #</a> - <br>
 19.<a href="">Home work #</a> - <br>
 21.<a href="">Home work #</a> - <br>
