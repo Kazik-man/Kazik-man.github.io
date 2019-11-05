@@ -20,8 +20,8 @@
 18.<a href="https://kazik-man.github.io/homework11/.">Home work #11</a> - position_3pic<br>
 19.<a href="https://kazik-man.github.io/homework11.5/.">Home work #11.5</a> - transformation<br>
 21.<a href="https://kazik-man.github.io/homework12/.">Home work #12</a> - Nike!<br>
-22.<a href="https://kazik-man.github.io/homework12.5/.">Home work #12.5</a> - strawberry(BEM) + form on contact<br>
-23.<a href="">Home work #</a> - <br>
+22.<a href="https://kazik-man.github.io/homework12.5/.">Home work #12.5</a> - strawberry(BEM) + form on button contact<br>
+23.<a href="https://kazik-man.github.io/homework13/.">Home work #13</a> - form3<br>
 24.<a href="">Home work #</a> - <br>
 25.<a href="">Home work #</a> - <br>
 26.<a href="">Home work #</a> - <br>
