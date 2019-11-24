@@ -25,7 +25,7 @@
 24.<a href="https://kazik-man.github.io/homework14/.">Home work #14</a> - design lab SVG<br>
 25.<a href="https://kazik-man.github.io/homework15/.">Home work #15</a> - first on SCSS<br>
 26.<a href="https://kazik-man.github.io/cahee-strong/.">Home work #15</a> - Cahee-strong. Батя может!<br>
-27.<a href="">Home work #</a> - <br>
+27.<a href="https://kazik-man.github.io/exam/.">Экзамен</a> - Экзамен<br>
 28.<a href="">Home work #</a> - <br>
 29.<a href="">Home work #</a> - <br>
 30.<a href="">Home work #</a> - <br>
