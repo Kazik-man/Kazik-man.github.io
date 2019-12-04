@@ -26,8 +26,8 @@
 25.<a href="https://kazik-man.github.io/homework15/.">Home work #15</a> - first on SCSS<br>
 26.<a href="https://kazik-man.github.io/cahee-strong/.">Home work #15</a> - Cahee-strong. Батя может!<br>
 27.<a href="https://kazik-man.github.io/exam/.">Экзамен</a> - Экзамен<br>
-28.<a href="">Home work #</a> - <br>
-29.<a href="">Home work #</a> - <br>
+28.<a href="">Home work #</a> - JavaScript<br>
+29.<a href="https://kazik-man.github.io/js-home1/.">js-home1</a> - Основы JS<br>
 30.<a href="">Home work #</a> - <br>
 31.<a href="">Home work #</a> - <br>
 32.<a href="">Home work #</a> - <br>
