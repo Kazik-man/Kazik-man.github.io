@@ -29,7 +29,7 @@
 28.<br>
 29.<a href="https://kazik-man.github.io/js-home1/.">js-home1</a> - Основы JS<br>
 30.<a href="https://kazik-man.github.io/js-home2/.">js-home2</a> - Типы данных и операторы<br>
-31.<a href="">Home work #</a> - <br>
+31.<a href="https://kazik-man.github.io/js-home3/.">js-home3</a> - Объекты<br>
 32.<a href="">Home work #</a> - <br>
 33.<a href="">Home work #</a> - <br>
 34.<a href="">Home work #</a> - <br>
