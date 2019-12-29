@@ -26,11 +26,13 @@
 25.<a href="https://kazik-man.github.io/homework15/.">Home work #15</a> - first on SCSS<br>
 26.<a href="https://kazik-man.github.io/cahee-strong/.">Home work #15</a> - Cahee-strong. Батя может!<br>
 27.<a href="https://kazik-man.github.io/exam/.">Экзамен</a> - Экзамен<br>
-28.<br>
+<br>
+28.<div style="border: 2px solid green; width: 700px; margin: 0 auto;">
+<br>
 29.<a href="https://kazik-man.github.io/js-home1/.">js-home1</a> - Основы JS<br>
 30.<a href="https://kazik-man.github.io/js-home2/.">js-home2</a> - Типы данных и операторы<br>
 31.<a href="https://kazik-man.github.io/js-home3/.">js-home3</a> - Объекты<br>
-32.<a href="">Home work #</a> - <br>
+32.<a href="https://kazik-man.github.io/js-classes/.">js-classes-home</a> - Классы дз<br>
 33.<a href="">Home work #</a> - <br>
 34.<a href="">Home work #</a> - <br>
 35.<a href="">Home work #</a> - <br>
