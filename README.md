@@ -27,7 +27,7 @@
 26.<a href="https://kazik-man.github.io/cahee-strong/.">Home work #15</a> - Cahee-strong. Батя может!<br>
 27.<a href="https://kazik-man.github.io/exam/.">Экзамен</a> - Экзамен<br>
 <br>
-<div style="height: 10px; width: 700px; background-color: green;"></div>
+<div style="height: 2px; width: 700px; background-color: green;">zxczczxc</div>
 <br>
 29.<a href="https://kazik-man.github.io/js-home1/.">js-home1</a> - Основы JS<br>
 30.<a href="https://kazik-man.github.io/js-home2/.">js-home2</a> - Типы данных и операторы<br>
