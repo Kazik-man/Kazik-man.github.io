@@ -32,7 +32,7 @@
 30.<a href="https://kazik-man.github.io/js-home2/.">js-home2</a> - Типы данных и операторы<br>
 31.<a href="https://kazik-man.github.io/js-home3/.">js-home3</a> - Объекты<br>
 32.<a href="https://kazik-man.github.io/js-classes/.">js-classes-home</a> - Классы дз<br>
-33.<a href="">Home work #</a> - <br>
+33.<a href="https://kazik-man.github.io/jQuery/.">jQuery-home</a> - jQuery practise<br>
 34.<a href="">Home work #</a> - <br>
 35.<a href="">Home work #</a> - <br>
 36.<a href="">Home work #</a> - <br>
