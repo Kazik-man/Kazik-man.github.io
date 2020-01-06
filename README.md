@@ -33,7 +33,7 @@
 31.<a href="https://kazik-man.github.io/js-home3/.">js-home3</a> - Объекты<br>
 32.<a href="https://kazik-man.github.io/js-classes/.">js-classes-home</a> - Классы дз<br>
 33.<a href="https://kazik-man.github.io/jQuery/.">DOM</a> - DOM<br>
-34.<a href="">Home work #</a> - <br>
+34.<a href="https://kazik-man.github.io/slick-slide/.">Slick slider home work</a> - Slick slider <br>
 35.<a href="">Home work #</a> - <br>
 36.<a href="">Home work #</a> - <br>
 37.<a href="">Home work #</a> - <br>
