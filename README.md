@@ -35,5 +35,5 @@
 33.<a href="https://kazik-man.github.io/jQuery/.">DOM</a> - DOM<br>
 34.<a href="https://kazik-man.github.io/slick-slide/.">Slick slider home work</a> - Slick slider <br>
 35.<a href="https://kazik-man.github.io/work/">Экзамен #2</a> - Montecillo<br>
-36.<a href="https://kazik-man.github.io/movieAPI/."></a> movie API Vue.js - <br>
+36.<a href="https://kazik-man.github.io/movieAPI/."> movie API Vue.js</a> - vue.js movie<br>
 37.<a href="">Home work #</a> - <br>
