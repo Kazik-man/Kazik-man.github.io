@@ -11,3 +11,4 @@
 <a href="https://kazik-man.github.io/work/">Макет #2</a> - Montecillo<br>
 <a href="https://kazik-man.github.io/movieAPI/."> movie API Vue.js</a> - vue.js movie<br>
 <a href="https://kazik-man.github.io/AJAX/">AJAX</a> - <br>
+<a href="https://kazik-man.github.io/diplome/">Макет #3</a><br>
