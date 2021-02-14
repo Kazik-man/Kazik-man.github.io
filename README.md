@@ -15,5 +15,5 @@
 <a href="https://kazik-man.github.io/diplome/">Макет #4</a><br>
 <a href="https://kazik-man.github.io/eskulap/.">Макет #5</a><br>
 <a href="https://kazik-man.github.io/ToDoListVue/.">ToDoList_vue.js</a><br>
-<a href="https://kazik-man.github.io/movieVue/.">movieVue.</a><br>
+<a href="https://kazik-man.github.io/movieVue/.">movieVue.js</a><br>
 <a href=""></a><br>
